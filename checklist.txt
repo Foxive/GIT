@@ -1,0 +1,10 @@
+Basic:
+	ID
+	Page element
+	Title
+	Expected Result
+	Status: (Passed/Failed/Not run/Blocked)
+Additional:
+	Short comment
+	Date/time
+	Steps
