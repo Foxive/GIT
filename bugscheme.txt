@@ -1,0 +1,12 @@
+Bug report scheme:
+	Basic:
+		Title: Short info about defect
+		ID: Unique number    
+		Description: Detailed info about defect
+		Steps: Explicit procedure for manual reproduction of the problem
+		Expected result: Describes how the software is supposed to function in the given scenario
+		Actual result: Describes what the bug is actually doing and how it is a distortion of the expected result
+		Environment: Info about device type/OS/version/locale/connection_info/rate of reproduction
+		Comment/Attached files (visual proof): Attached to clearly depict the occurrence of the bug
+	Additional:
+		Bug severity / priority: Bug must be assigned a level of severity and corresponding priority. This reveals the extent to which the bug affects the system, and in turn, how quickly it needs to be fixed.
