@@ -35,13 +35,13 @@
 |  25. Закоммитить файл. | git commit -m "Test XML"|
 |  26. Отправить файл на внешний GitHub репозиторий. | git push |
 |  27. Отредактировать содержание файла “new.xml” - написать информацию о себе. Всё написать в формате JSON. | nano new.xml |
-|  28. Отправить изменения на внешний репозиторий. | git commit -m "added info"  |
+|  28. Отправить изменения на внешний репозиторий. | git commit -am "added info"  |
 | | git push |
 |  29. Создать файл preferences.xml | touch preferences.xml |
 |  30. В файл preferences.xml добавить информацию о своих предпочтениях в формате XML. | nano preferences.xml |
 |  31. Создать файл skills.xml добавить информацию о скиллах которые будут изучены на курсе в формате JSON | touch skills.xml |
 | | nano skills.xml |
-|  32. Сделать коммит в одну строку | git commit -am "Add new files" |
+|  32. Сделать коммит в одну строку | git commit -i "Add new files" |
 |  15. Отправить сразу 2 файла на внешний репозиторий. | git push |
 |  16. На веб интерфейсе создать файл bug_report.xml. | done with GUI |
 |  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе. | done with GUI |
