@@ -10,7 +10,7 @@
 |  *Mobile testing*| git branch MobileTesting |
 ||
 |  2. Запушить все ветки на внешний репозиторий | git push --all -u|
-|  3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта | git checkout BugReports |
+|  3. В ветке Bug Reports сделать текстовый документ со структурой баг репорта | git checkout BugReports |
 | | touch bugscheme.txt |
 | | nano bugscheme.txt |
 |||
