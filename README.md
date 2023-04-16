@@ -1,13 +1,13 @@
 # [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" title="" alt="D|" width="525">](https://www.github.com/)
 
-## __Homeworks status:__ _finished_
+## __Homeworks status:__ _<mark>finished</mark>_
 
 ---
 
-- [HW_1](#hw_1)
-  - [scenario_1][hw1_link]
-- [HW_2](#hw_2)
-  - [scenario_2][hw2_link]
+- [HW_1]
+  - [Scenario_1][hw1_link]
+- [HW_2]
+  - [Scenario_2][hw2_link]
   - [BugScheme][hw2bs_link]
   - [Checklist][hw2cl_link]
 
