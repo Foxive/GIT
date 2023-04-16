@@ -28,7 +28,7 @@
 ---
 
 [//]: # (Reference links)
-[hw1_link]: <https://github.com/Foxive/GIT/blob/main/GIT1_scenario.md)>
-[hw2_link]: <https://github.com/Foxive/GIT/blob/main/GIT2_scenario.md)>
+[hw1_link]: <https://github.com/Foxive/GIT/blob/main/GIT1_scenario.md>
+[hw2_link]: <https://github.com/Foxive/GIT/blob/main/GIT2_scenario.md>
 [hw2bs_link]: <https://github.com/Foxive/GIT/blob/main/bugscheme.txt>
 [hw2cl_link]: <https://github.com/Foxive/GIT/blob/main/checklist.txt>
